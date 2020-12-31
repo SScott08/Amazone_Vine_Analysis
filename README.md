@@ -4,5 +4,4 @@ Amazon Vine is a service that allows publishers and manufacturers to get reviews
 
 
 Results:
-
-C:\Users\sclaf\Desktop\Big Data\Images
+https://github.com/SScott08/Amazone_Vine_Analysis/blob/main/Images/Capture1.PNG
